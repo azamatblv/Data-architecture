@@ -6,5 +6,5 @@
 3) eval "$(ssh-agent -s)"
 4) -K ~/.ssh/id_rsa_archi
 5) pbcopy < ~/.ssh/id_rsa_archi.pub
-git@github.com:azamatblv/Data-architecture.git
 6) Добавить публичный ключ на странице  github
+7) git@github.com:azamatblv/Data-architecture.git
